@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters from Saffron-Walden the Generalls head quarters, by way of apologie and vindication of the army under his Excellency Sir Thomas Fairfax, of some late groundlesse aspersions cast upon them. Together with a true account of the proceedings and resolutions of that army upon the late resolves and declaration of the Parliament concerning the petition of his officers and souldiers in the army, to his Excellency Sir Thomas Fairfax. Also the copie of a second petition from the county of Essex, intended to both the Houses of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96149</idno>
+            <idno type="STC">Wing W123</idno>
+            <idno type="STC">Thomason E383_24</idno>
+            <idno type="STC">ESTC R201441</idno>
+            <idno type="EEBO-CITATION">99861951</idno>
+            <idno type="PROQUEST">99861951</idno>
+            <idno type="VID">114097</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114097)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E383[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters from Saffron-Walden the Generalls head quarters, by way of apologie and vindication of the army under his Excellency Sir Thomas Fairfax, of some late groundlesse aspersions cast upon them. Together with a true account of the proceedings and resolutions of that army upon the late resolves and declaration of the Parliament concerning the petition of his officers and souldiers in the army, to his Excellency Sir Thomas Fairfax. Also the copie of a second petition from the county of Essex, intended to both the Houses of Parliament.</title>
+                  <author>T. W.</author>
+               </titleStmt>
+               <extent>8, 7-12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed anno Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of 3 items, the first of which is signed at end: T.VV.</note>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Aprill 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114097:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <p>LETTERS FROM <hi>SAFFRON-WALDEN</hi> THE Generalls Head Quarters, By way of Apologie and Vin<g ref="char:EOLhyphen"/>dication of the Army under his Excel<g ref="char:EOLhyphen"/>lency Sir THOMAS FAIRFAX, of ſome late groundleſſe aſperſions caſt upon them.</p>
+            <p>Together with a true Account of the procee<g ref="char:EOLhyphen"/>dings and Reſolutions of that Army upon the late Reſolves and Declaration of the Parliament concerning the Petition of the Officers and Souldiers in the Army, to his Excellency Sir THOMAS FAIRFAX.</p>
+            <p>Alſo the Copie of a ſecond Petition from the County of ESSEX, intended to both the Houſes of PARLIAMENT.</p>
+            <p>LONDON, Printed <hi>Anno Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114097:2"/>
+            <!-- PDF PAGE 80 -->
+            <pb n="3" facs="tcp:114097:2"/>
+            <!-- PDF PAGE 80 -->
+            <head>Letters from <hi>Saffron Walden,</hi> the GENERALLS Head-Quarters.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Suppoſe you are not ignorant of the late command ſent un<g ref="char:EOLhyphen"/>to the Generall to publiſh a Declaration at the Head of his ſeverall Regiments, requi<g ref="char:EOLhyphen"/>ring them to deſiſt from go<g ref="char:EOLhyphen"/>ing on in that Petition they were about to preſent unto him: I thought fit by this to acquaint you, That in obedience to the Commands of the Parliament. His Excellency hath cauſed the ſame to be publiſhed, and the Souldiers acquieſce
+<pb n="4" facs="tcp:114097:3"/>
+               <!-- PDF PAGE 81 -->therein (ſuch is their obedience and reſpect unto the Generall,) though at the reading it, ſome of the Soul<g ref="char:EOLhyphen"/>diers gave out, it was an hard caſe with them, that they that had fought for the liberty of the Subjects of England, ſhould be denied the liberty of a Subject to petition, though it be to their Generall in an humble way, and meerely in things relating to them as ſoul<g ref="char:EOLhyphen"/>diers, (medling neither with Church Government, nor ſtate affaires,) and withall ſubmitting it to the Ge<g ref="char:EOLhyphen"/>neralls Iudgement for approbation, or correction, as he ſaw cauſe, and though, they ſaid, they did deſiſt in this Petition, yet ſince it was publiſhed to the World, that their proceedings tended to ſuch a nature as to deſerve to be declared enemies, if they perſiſted there<g ref="char:EOLhyphen"/>in, they purpoſe to publiſh to the world a vindica<g ref="char:EOLhyphen"/>tion of their innocency from thoſe groundleſſe Opi<g ref="char:EOLhyphen"/>nions had of them, and hope to have Iuſtice done up<g ref="char:EOLhyphen"/>on the miſſinformers, this they ſay, they intend to do in an humble and a ſubmiſſive way, and though their mouths be ſtopt from a liberty of Petitioning, yet their honour is ſo deare unto them, that they ſay, they are reſolved of a vindication, ſo as it ſhall be neither offenſive to the Parliament, nor the Generall. To re<g ref="char:EOLhyphen"/>gulate Offences, and allay heats in Armies, ſometimes prudence is more prevailing, then things tending to provocation, &amp; it had bin W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſedome in the County of <hi>Eſſex</hi> in the firſt violent Petition, to have forborn to have publiſhed the ſame in Print, wherein they poſ<g ref="char:EOLhyphen"/>ſeſſe the World, That this Army came to inſlave the Country, and to awe the Parliament. I ſend you here
+<pb n="5" facs="tcp:114097:3"/>
+               <!-- PDF PAGE 81 -->incloſed a Coppy of a ſecond Petition of that County, contrived and printed privatly in London, and ſent downe hither in print (no man knows from whom) to the ſeveral Hundreds, and pariſhes to be read the next Lords day in all Churches, as you wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l ſee by the di<g ref="char:EOLhyphen"/>rection: The Souldiers will not hinder others Peti<g ref="char:EOLhyphen"/>tioning againſt them even in their own preſence, and yet, they ſay, they muſt be denyed to petition for them<g ref="char:EOLhyphen"/>ſelves, be their cauſe never ſo juſt, who can blame the County of Eſsex, or any county in this Kingdome elſe to deſire a preſent disbanding ſince the worke is done, it is as much irkſome to us, when ther's no need of Souldiers to Quarter upon the Country, as it can be to the Country to quarter us; yet no petition that hath bin put out in print lately againſt this Army for the diſbanding of it hath ever yet expreſſed ſo much affection, love, or requitall unto the Army, for what they have done for them as to mediate or deſire. That as they would have them disbanded, ſo that care may be taken, the poore ſouldier that hath bin ſo faithfull and expeditious in their ſervice might be conſidered for their arreares at the disbanding <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd what (ſayes the ſouldier) makes the army liable to theſe reproaches, unleſs it be for finiſhing their work ſo ſoone, and have they fought to maintain the Petition of Right, and be denied a Right of petitio<g ref="char:EOLhyphen"/>ning themſelves: Sir Having given you this briefe account: I remain.</p>
+            <closer>
+               <dateline>
+                  <hi>VValden.</hi> 
+                  <date>
+                     <hi>Aprill</hi> 3. 1647.</date>
+               </dateline>
+               <signed>Your affectionate freind. T VV.</signed>
+            </closer>
+         </div>
+         <div type="letter_with_commentary">
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="6" facs="tcp:114097:4"/>
+                  <!-- PDF PAGE 82 -->
+                  <head>To the Right Honourable the Knights, Citizens and Bur<g ref="char:EOLhyphen"/>geſſes aſſembled in Parliament, The Humble Petition of the Inha<g ref="char:EOLhyphen"/>bitants of the County of ESSEX.</head>
+                  <opener>Humbly Sheweth,</opener>
+                  <p>THat in all Exigences having freely and with the firſt en<g ref="char:EOLhyphen"/>gaged themſelves, to the utmoſt hazard of their lives, &amp; exhauſted their eſtates for the ſupport of the Kingdome in its native Rights and liberties, and by Gods bleſsing the ſuc<g ref="char:EOLhyphen"/>ceſses have been anſwerable in ſome degree to their deſires, by which wee ſit in peace, and your ſelves in ſecurity, with a ful poſſeſsion of the hearts of the people, and now fearing leaſt
+<pb n="7" facs="tcp:114097:4"/>
+                     <!-- PDF PAGE 82 -->by the miſcarrying on the Military charges beyond the ne<g ref="char:EOLhyphen"/>ceſſity of the worke, and the ability of the people now much weakned, by a dearth sharper then the late devouring ſword, you should h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>zard the loſs of your ſelves and freinds, not ſo much from the alienation of their affections [which yet is not to bee neglected, as their diſabilities to ſerve you, which may ariſe from the Army now on foote, after ſix months C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſation of all hoſtilitie heere, and ſo bleedingly cal<g ref="char:EOLhyphen"/>led for, to the ſaving of an other Kingdome, as alſo from ſo numerous a partie in this County: ſhortly by their quar<g ref="char:EOLhyphen"/>ters, like to equall all precedent charges, and to ſurmonnt the worſt, and heavieſt of our former taxes, eſpecially by the manner of their being Impoſed upon us.</p>
+                  <closer>
+                     <signed>Your Petitioners do humbly offer to your Pru<g ref="char:EOLhyphen"/>dence the ſpeedy disbanding of the Army: as a ple<g ref="char:EOLhyphen"/>nary Expedient againſt the worſt, That in Generall may be feared by you and us: And the Removall of it from the Conntie by which you ſhall continue abſolute Masters and diſpoſers of them and theirs, in all your pious and faithfull undertakings for the fu<g ref="char:EOLhyphen"/>ture, and that God will aſsiſt you for all your ſafe<g ref="char:EOLhyphen"/>ties, is and ſhal be the dayly prayers of your Petitio<g ref="char:EOLhyphen"/>ners.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="8" facs="tcp:114097:5"/>
+            <!-- PDF PAGE 83 -->
+            <p>The miniſter is deſired to publiſh this Petition <hi>A<g ref="char:EOLhyphen"/>prill</hi> 4th. and to have two ſheetes of paper to take the names of thoſe that will freely joyne in it, the one to be preſented to the Houſe of Lords, and the other un<g ref="char:EOLhyphen"/>to the Houſe of Commons.</p>
+            <p>This Petition was ſent from <hi>London</hi> to Ioſeph Hall High Conſtable in litle Bardfield, and they are to be publiſhed in every Pariſh Church in this Countie of Eſsex, and in every pariſh to gather hands to it with this further direction Written in the printed paper wherein they are deſired (as many as can convenient<g ref="char:EOLhyphen"/>ly) to meet at Shealford Langthrine the 8th of <hi>Aprill</hi> to go to <hi>London</hi> with the ſame.</p>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:114097:5"/>
+            <!-- PDF PAGE 83 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WHilſt our enemies appeared onely as men out of place and authority, and we lookt upon them as the com<g ref="char:EOLhyphen"/>mon enemies of the Kingdome, we conceived there might be ſomething done to vindicate our actions upon the publique ſtage; but now the diſeaſe is growne ſo Epidemicall, that all our endeavous are like to prove invalid. And indeed thoſe who are now prejudiced againſt us, are our ſuperiours; nay further, thoſe whom we lookt upon as our beſt friends: (and the wounds of friends are grievous;) who would have thought that ſo modeſt and moderate an addreſſe as the late petition drawn up to be ſubſcribed by the Army, to be preſented to the Generall, would have raiſed ſo much duſt? Or, have the Souldiers onely, who have been in<g ref="char:EOLhyphen"/>ſtruments to recover the loſt liberties of the Nation, fought themſelves into ſlavery? ſure there is a right of pe<g ref="char:EOLhyphen"/>titioning for us, as well as there was a Petition of Right once for the Parliament: if we had bin ſo raſh as at firſt ad<g ref="char:EOLhyphen"/>venture to have knockt with a Petition at the Parliaments doores, it might have been cenſured as too ſaucie and
+<pb n="8" facs="tcp:114097:6"/>
+               <!-- PDF PAGE 84 -->malapert: For Souldiers to repreſent their grievances to their Generall, is a liberty which the Law of nature and Nations will not deny; for this was to goe no further, but left to his Excellency to retract, or repreſent, as he thought either fit or ſeaſonable.</p>
+            <p>The firſt Vote of the Houſe of Commons for the ſtop<g ref="char:EOLhyphen"/>ping of the Petition ſeemed ſtrange to us, and we could not but have a very deepe ſence of our unhappineſſe in being miſunderſtood in our cleare intentions, which are no other then by way of petition to repreſent the incon<g ref="char:EOLhyphen"/>veniences which muſt neceſſarily befall the Army after disbanding, which the Parliament through multiplicity of buſineſſe might not ſo well provide againſt; beſides, ſome have already ſuffered for want of a generall act of indemnity, and many Officers (as I believe is obvious to your eyes) have been ſtarved for want of ſubſiſtence, whilſt they ſought to obtaine their arreares. But how great a cauſe of amazement and aſtoniſhment was it to us to ſee a ſecond Declaration of both Houſes, of the ſecond of <hi>March,</hi> wherein that Petition is declared to tend to a parting the Army into a diſtemper and mutiny, to put conditions upon the Parliament, and obſtruct the reliefe of Ireland; That they ſhould pronounce their high diſlike thereof, and that they would proceed againſt the pro<g ref="char:EOLhyphen"/>moters as enemies to the ſtate, and diſturbers of the pub<g ref="char:EOLhyphen"/>lique peace. But that which yet heightens the amaze<g ref="char:EOLhyphen"/>ment, is, that ſuch a Declaration ſhould be grounded upon Letters and informations of ſo ſlight credit, which if I might be ſo bold, I might term both frivolous and fictions. One of the Letters directed to Col. <hi>Harley</hi> ſayes that at a Rendezvouz of the ſaid Colonels Regiment the Petition was read and ſigned by 1100 hands, and ſuch as refuſed it were threatned to be caſhiered. The Muſter-maſter will tell you there was not a thouſand muſtered the laſt mu<g ref="char:EOLhyphen"/>ſter:
+<pb n="9" facs="tcp:114097:6"/>
+               <!-- PDF PAGE 84 -->and yet 1100 ſet their hands, and the reſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>00000 were caſhiered: But this is not all the diſcovery. The other Regiments were comming up; And ſayes one, ex<g ref="char:EOLhyphen"/>cept the Parliament take high reſolutions, they will in<g ref="char:EOLhyphen"/>ſlave the Kingdome. To anſwer this, there were none came from the Notth, but Sir <hi>Hardres Wallers,</hi> and that was ſent for at Major Generall <hi>Skippons</hi> requeſt, who complained, that the Countrey there was not able to beare it: And Colonell <hi>Herberts,</hi> and Colonell <hi>Hamonds</hi> Regi<g ref="char:EOLhyphen"/>ments being about Cheſter ready for tranſpotation for Ireland, but (their good will not accepted) com<g ref="char:EOLhyphen"/>ming backe towards the reſt of the Army: But another member acquaints the Houſe, that thoſe who would not ſubſcribe the Petition were to be left out of the Muſter-Roll. And another ſayes that he heard Lieutenant Gene<g ref="char:EOLhyphen"/>rall <hi>H.</hi> and other Officers were to reſide at the Head-quarter to receive ſubſcriptions: yet not one of them received a paper or ſubſcription, nor any brought in at that time. But this was not all; there was another Let<g ref="char:EOLhyphen"/>ter from an Officer of Colonell <hi>Roſſiters</hi> (who would doe nothing without his Colonels conſent) and he takes ex<g ref="char:EOLhyphen"/>ceptions at nothing but at the deſiring the Royall aſſent: This Colonell <hi>Fines</hi> very excellently vindicated the ſame day in the houſe, declaring, that there was nothing deſi<g ref="char:EOLhyphen"/>red more then what the Parliament themſelves deman<g ref="char:EOLhyphen"/>ded in the Propoſitions; (but Colonell <hi>Roſſiter</hi> had thanks and his Regiment voted their Arreares.)</p>
+            <p>
+               <hi>Sir,</hi> give me leave a little to cleare up the intentions of the Army: for that charge of mutiny, I can aſſure you there was no ſuch thing, the Petition being generally approved of, and whole Regiments unanimouſly ſubſcri<g ref="char:EOLhyphen"/>bed it, except here and there ſome indifferent Comman<g ref="char:EOLhyphen"/>ders ſeemed to oppoſe it; the truth is, it is the Maſter-piece
+<pb n="10" facs="tcp:114097:7"/>
+               <!-- PDF PAGE 85 -->of our Enemies to ſuppreſſe it in ſuch high Lan<g ref="char:EOLhyphen"/>guage, if it were poſſible to bring the Army to a mu<g ref="char:EOLhyphen"/>tiny, and ſo put an odium upon them at the laſt, which they could not hitherto faſten. For putting conditions upon the Parliament, I dare ſpeake the hearts of the Pe<g ref="char:EOLhyphen"/>titioners (the Commanders I'me ſure) it never entred into their thoughts: and I may ſay the like for the obſtru<g ref="char:EOLhyphen"/>cting of Ireland, and adde further, That the Parliament will finde thoſe men who were moſt forward in this Pe<g ref="char:EOLhyphen"/>tition, more ready to goe for Ireland then any of the <hi>ſep<g ref="char:EOLhyphen"/>temdecem viri,</hi> who onely to curry favour, and ingratiate themſelves have tendred their ſervice (in a declaration which I ſuppoſe you have ſeen) leaving the conditions, conduct, indempnity, and arreares at pleaſure, which in<g ref="char:EOLhyphen"/>deed they may, for moſt of them will never come there; nay Captaine <hi>Burges,</hi> Cap. <hi>Pennyfather</hi> and ſome others of them doe deny that ever they ſubſcribed the ſame, and declare againſt it, and I believe few of them will have any of their ſouldiers to comply with them; for one of them, Colonell — I perſwade my ſelfe he will ſcarce ap<g ref="char:EOLhyphen"/>peare in the head of his Regiment; I'me ſure he'le finde little acceptance there upon his propoſition for Ireland: But he, Colonel F. Colonell <hi>S.</hi> and the reſt, are right men, and fit to be imployed in that ſervice.</p>
+            <p>Sir, I could relate to you many of their juglings and conſpirings, but time will diſcover all things; <hi>Ex ungue leonem.</hi> This may ſuffice to acquaint you how much the diſgrace, if not the deſtruction of the Army, is now reſolved on; nothing muſt pleaſe that comes from it bee it never ſo legall, juſt and innocent: All aggravating Petitions muſt be received againſt it, though they come with never ſo inconſiderable a teſtimony, as Eſſex late Petition; and what thinke, you of an other drawne
+<pb n="11" facs="tcp:114097:7"/>
+               <!-- PDF PAGE 85 -->up in London and ſent downe printed into Eſſex; where reſpecting the Army, you have ſuch expreſſions as theſe: <hi>The people now much weakened by a dearth ſharper then the late devouring ſword, alſo that there is ſo numerous a par<g ref="char:EOLhyphen"/>ty in that County ſhortly by their quarters like to equall all precedent charges, and to ſurmount the worſt and heavieſt of their former tax<g ref="char:EOLhyphen"/>es;</hi> which is ſo unreaſonable and inhumane a ſlander, that Hell it ſelfe could not have invented a more lying invective againſt the Army; yet this as before was ſent <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom London to divers in Eſſex, <hi>and particularly to one</hi> Joſeph Hall <hi>high Conſtable in little Barfield,</hi> and the like was ſent to the Miniſter of Saffron Walden, to be publiſhed in every pariſh Church in the County of Eſſex, and every Pariſh to get hands to it; further directions are alſo written in the printed paper where<g ref="char:EOLhyphen"/>in they are deſired (as many as can conveniently) to meete at Shealford-Laughirne the eight of Aprill to goe to London with the ſame, yet the Army are ſo innocent as not to hin<g ref="char:EOLhyphen"/>der it. And now you have the iſſue of all; and truly I hope the godly party in the Army (and the greateſt part of them too) will willingly and readily ſubmit to the diſpoſall of the Parliament, and in that the diſpenſations of God towards them, and as they have ſerved the Kingdome, in doing ſo, they will now be ſubſervient to divine providence in ſuffering, for that's the condition we muſt now looke for: And oh, that we could ſtand ſtill and ſee the ſalvation of God; for my owne part I am ſo farre from pleading any wayes for an Anarchy, that I thinke the Parliament to be a Magiſtracy ordained of God to whom we are to ſubmit in civill things by doing or ſuffering; Let things move in a violent and po<g ref="char:EOLhyphen"/>pular way and all will come to confuſion. Sir I have beene the larger in this to ſatisfie both you and others, and truly I am ſo zealous for the vindication of the Army that I could doe no leſſe; if all ſhould be ſilent, the ſtones would cry out.</p>
+            <pb n="12" facs="tcp:114097:8"/>
+            <!-- PDF PAGE 86 -->
+            <p>I had ſent you the Petition of the Army, (that you and the world may judge of it, it being repreſented ſo dangerous) but finding juſt now it is made publique, I have onely ſent you the Petition drawne up at London, to be obtruded up<g ref="char:EOLhyphen"/>on the County of Eſſex; leaving that alſo to the cenſure of all rationall men with this Quere: Whether is moſt de<g ref="char:EOLhyphen"/>ſtructive, a Petition drawne up and ſubſcribed by unanimous conſent, or a Petition contrived to be impoſed upon men againſt their deſires and reſolutions? for ſo is that ſent into Eſſex; for ſo farre as I have inquired into the diſpoſitions of the County, and have beene up and downe as farre as Col<g ref="char:EOLhyphen"/>cheſter, I finde few of them complaining, if any at all, and a good part of the County is exempted from quarter by the Armies keeping their diſtance twenty five miles from Lon<g ref="char:EOLhyphen"/>don: yet, <hi>if a man will beate a dogge he may ſonne finde a ſtaffe;</hi> I ſhall adde no more; let this ſuffice at preſent, from</p>
+            <closer>
+               <dateline>
+                  <hi>Walden,</hi> 
+                  <date>
+                     <hi>Aprill.</hi> 3. 1647.</date>
+               </dateline>
+               <signed>Your reall Friend, R. S.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114097:8"/>
+            <!-- PDF PAGE 86 -->
+         </div>
+      </body>
+   </text>
+</TEI>
